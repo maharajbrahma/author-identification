@@ -1,1 +1,2 @@
-# Author Identification using Deep Learning
+# Automated Authorship Identification Using Deep Learning
+
